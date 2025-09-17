@@ -168,15 +168,11 @@ The app requires location permissions for emergency services:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Support
 
 For support and questions:
 - Create an issue in this repository
-- Contact: [your-email@example.com]
+- Contact: aryaman.p.futane@gmail.com
 
 ## 🙏 Acknowledgments
 
